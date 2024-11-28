@@ -10,6 +10,7 @@
       "start": "node --watch app/app.js"
     },
     "dependencies": {
-      "express": "^4.18.1"
+      "express": "^4.18.1",
+      "nano": "^10.1.4"
     }
   }
